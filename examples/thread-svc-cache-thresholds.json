@@ -1,0 +1,17 @@
+{
+  "repo": "thread-svc-cache-hub",
+  "thresholds": {
+    "signal": 4,
+    "slack": 1,
+    "confidence": 2,
+    "drag": 4,
+    "ship": 204,
+    "watch": 111
+  },
+  "terms": [
+    "queue pressure",
+    "retry load",
+    "worker slack",
+    "session drift"
+  ]
+}
